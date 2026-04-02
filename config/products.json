@@ -1,0 +1,15 @@
+{
+  "fast_food": {
+    "McDonald's": ["Big Mac", "McCombo Mediano Big Mac", "McNuggets 10 piezas"],
+    "Burger King": ["Whopper", "Combo Whopper Mediano", "Nuggets 8 piezas"],
+    "KFC": ["Bucket 8 piezas", "Combo Krusher"]
+  },
+  "retail": {
+    "stores": ["OXXO", "7-Eleven"],
+    "products": ["Coca-Cola 600ml", "Agua Bonafont 1L", "Sabritas Original 45g", "Leche Lala 1L", "Pañales Huggies"]
+  },
+  "pharmacy": {
+    "stores": ["Farmacias del Ahorro", "Farmacias Guadalajara"],
+    "products": ["Paracetamol 500mg", "Vitamina C efervescente"]
+  }
+}

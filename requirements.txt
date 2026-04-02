@@ -1,0 +1,8 @@
+playwright==1.49.1
+gspread==6.1.4
+google-auth==2.37.0
+pandas==2.2.3
+numpy==2.4.4
+beautifulsoup4==4.12.3
+rich==13.9.4
+Pillow==11.0.0
